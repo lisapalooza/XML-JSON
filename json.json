@@ -1,0 +1,14 @@
+{
+	"name": "Lisa",
+	"age": 25,
+	"favorite_film": "Pulp_Fiction",
+	"favorite_book": "Roadside_Picnic",
+	"favorite_games": {
+		"Stardew_Valley",
+		"Portal",
+		"Firewatch"
+	},
+	"pets": 2,
+	"favorite_food": "Homemade_Pizza",
+	"favorite_serial": "Fargo"
+}
